@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Set Sql Server Connection String",
+        "command": "set_connection_string"
+    }
+    ,{
+        "caption": "Delete Sql Server Connection String",
+        "command": "delete_connection_string"
+    }
+    ,{
+        "caption": "Execute Sql",
+        "command": "execute_sql"
+    }
+]
